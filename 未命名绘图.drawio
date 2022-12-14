@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T13:17:03.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4unjW29yK-hK7626SX5V" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T13:21:02.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mJGePvAaX-dT6tD4OFRO" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1598" dy="3062" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="3062" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1162,8 +1162,8 @@
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-602" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xhn0Lpm8mwDRlb0D4wU6-190" target="xhn0Lpm8mwDRlb0D4wU6-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-646" value="CMDB" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="596.25" y="1389.25" width="105.5" height="29.5" as="geometry" />
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-646" value="CMDB" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="1392" width="105.5" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-650" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;dashed=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="9" y="1308" width="471" height="456" as="geometry" />
@@ -1226,8 +1226,8 @@
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-662" value="中间件管理平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="1320" width="416" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-670" value="Kyanite" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="601.75" y="1509.5" width="105.5" height="29.5" as="geometry" />
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-670" value="Kyanite" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="1509.5" width="105.5" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-677" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xhn0Lpm8mwDRlb0D4wU6-675">
           <mxGeometry relative="1" as="geometry">
@@ -1237,8 +1237,11 @@
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-675" value="RocketMQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1629" width="84" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-679" value="Kyanite" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="601.75" y="1629" width="105.5" height="29.5" as="geometry" />
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-679" value="Kyanite" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="1629" width="105.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-682" value="同时生成对应group，名称取应用名，要做幂等。" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860.5" y="1512" width="315" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

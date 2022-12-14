@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T13:41:32.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="cES9pm1l6Amc1rLh7jg8" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T13:42:31.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gOfbqamdsm9NeGiB0M3X" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="903" dy="2841" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1268,8 +1268,8 @@
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-724" value="中间件管理平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="888.5" y="1320" width="416" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-725" value="资源申请处理" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="923.5" y="1491.5" width="330.5" height="60" as="geometry" />
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-725" value="资源申请通知" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="897.75" y="1376.75" width="330.5" height="291.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T13:42:50.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WPOgojDk_nQ4H_10McLn" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T13:44:23.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CRdoRZzHLcgxAGf2v-9P" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1887" dy="3391" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1254,13 +1254,7 @@
           <mxGeometry x="610" y="1629" width="105.5" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-682" value="同时生成对应group，名称取应用名，要做幂等。" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="2004" width="227.5" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-709" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;dashed=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="12.5" y="2064" width="471" height="204" as="geometry" />
-        </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-710" value="XMAN" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="36" y="2088" width="416" height="29.5" as="geometry" />
+          <mxGeometry x="545" y="1716" width="227.5" height="104" as="geometry" />
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-723" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;dashed=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="859" y="1308" width="471" height="540" as="geometry" />
@@ -1270,6 +1264,15 @@
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-725" value="资源申请通知" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="929.25" y="1378.62" width="330.5" height="291.25" as="geometry" />
+        </mxCell>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-752" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="849" y="1980" width="471" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-709" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;dashed=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-752">
+          <mxGeometry width="471" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-710" value="XMAN" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-752">
+          <mxGeometry x="21.5" y="36" width="416" height="29.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

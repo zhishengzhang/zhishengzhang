@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T03:03:08.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1JYdwxqFZysvt_aDVlWE" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T03:04:07.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ge3qegDllOwZlfdZh9vC" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1625" dy="3143" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1368,7 +1368,7 @@
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-839" value="RocketMQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="2637" width="84" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-840" value="同时生成对应group，名称取应用名，要做幂等。" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-840" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="2728" width="227.5" height="104" as="geometry" />
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-841" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -1394,7 +1394,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-846" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="864" y="2319" width="471" height="516" as="geometry" />
+          <mxGeometry x="864" y="2319" width="471" height="610.38" as="geometry" />
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-847" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;dashed=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-846">
           <mxGeometry width="471" height="516" as="geometry" />
@@ -1402,8 +1402,11 @@
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-848" value="中间件管理平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-846">
           <mxGeometry x="29.5" y="12" width="416" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-849" value="资源申请通知" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-846">
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-849" value="授权逻辑" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-846">
           <mxGeometry x="70.25" y="70.62" width="330.5" height="265.38" as="geometry" />
+        </mxCell>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-867" value="其他" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-846">
+          <mxGeometry x="70.25" y="345" width="330.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-850" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="588" y="2397.25" width="112.5" height="266.5" as="geometry" />

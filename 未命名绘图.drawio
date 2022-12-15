@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T02:15:16.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="r-vg9mheN3fWnXGlbOgv" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T02:18:24.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4WuD_TPVyLn0sRF7OwI5" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="903" dy="2841" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1167,9 +1167,6 @@
             <mxPoint x="852" y="1404" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-646" value="CMDB" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="589.25" y="1389.25" width="105.5" height="29.5" as="geometry" />
-        </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-650" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;dashed=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="9" y="1308" width="471" height="516" as="geometry" />
         </mxCell>
@@ -1231,9 +1228,6 @@
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-662" value="中间件管理平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="1320" width="416" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-670" value="Kyanite" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="589.25" y="1506.75" width="105.5" height="29.5" as="geometry" />
-        </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-677" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xhn0Lpm8mwDRlb0D4wU6-675">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="596.25" y="1641.75" as="targetPoint" />
@@ -1241,9 +1235,6 @@
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-675" value="RocketMQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1629" width="84" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-679" value="Kyanite" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="596.25" y="1626.25" width="105.5" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-682" value="同时生成对应group，名称取应用名，要做幂等。" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="545" y="1716" width="227.5" height="104" as="geometry" />
@@ -1286,15 +1277,21 @@
         </mxCell>
         <mxCell id="xhn0Lpm8mwDRlb0D4wU6-766" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="697.25" y="1521.11347826087" as="sourcePoint" />
-            <mxPoint x="854.5" y="1521.07" as="targetPoint" />
+            <mxPoint x="694.88" y="1521.11347826087" as="sourcePoint" />
+            <mxPoint x="852.13" y="1521.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-767" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="701.75" y="1640.61347826087" as="sourcePoint" />
-            <mxPoint x="859" y="1640.57" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-768" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="589.25" y="1389.25" width="112.5" height="266.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-646" value="CMDB" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-768">
+          <mxGeometry width="105.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-670" value="Kyanite" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-768">
+          <mxGeometry x="3.75" y="117.5" width="105.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xhn0Lpm8mwDRlb0D4wU6-679" value="Kyanite" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" vertex="1" parent="xhn0Lpm8mwDRlb0D4wU6-768">
+          <mxGeometry x="7" y="237" width="105.5" height="29.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
